@@ -30,7 +30,7 @@
   <img align="center" alt="Cicero-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
+![Snake animation](https://github.com/Cícerohub/Cícerohub/blob/output/github-contribution-grid-snake.svg)
 
 
 
